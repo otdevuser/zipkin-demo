@@ -1,0 +1,11 @@
+.idea/
+build/
+dist/
+target/
+*.iml
+
+*.log
+logs/
+
+.DS_Store
+.desktop.ini
